@@ -1,0 +1,6 @@
+{
+  "name": "TITAN – The Digital Marketplace",
+  "description": "Premium digital marketplace for UI/UX design systems, AI developer tools, templates, digital courses, and creative assets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
